@@ -1,0 +1,54 @@
+#header-nav{
+    background-color: lightgrey;
+    border-bottom:1px solid black;
+}
+
+.navbar-brand h1{
+    color:black;
+    font-size:1.5em;
+    font-weight:bold;
+    text-shadow:1px 1px 1px #222;
+    margin-top:0;
+    margin-bottom:0;
+    line-height: .75;
+}
+
+.navbar-brand a:hover{
+    text-decoration: none;
+}
+
+#nav-lists li span{
+    font-size:1.8em;
+    color: black;
+}
+hr{
+    border-top: 1px solid black;
+}
+
+.container{
+    margin:0 10px;
+}
+
+main h1{
+    font-size:2.5em;
+    font-weight:bold;
+    text-shadow: 1px 1px 1px #222;
+    margin-top:0;
+    margin-bottom:10px;
+    line-height:.75;
+    
+}
+#chicken{
+    padding-top:10px;
+    margin:10px 10px 10px -5px;
+    padding-left:10px;
+    border:1px solid black;
+    background-color: lightgrey;
+    height:1000px;
+}
+#chicken p:nth-child(1){
+    font-size:1.4em;
+    font-weight:bold;
+}
+
+
